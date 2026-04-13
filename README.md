@@ -13,3 +13,5 @@ Bad one examples:
 
 
 `make open` or open index.html in your browser
+
+might throw it up on the world wide web eventually
