@@ -1,4 +1,4 @@
 .PHONY: deploy open
 
-dev:
+open:
 	open index.html
